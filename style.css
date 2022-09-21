@@ -49,6 +49,7 @@ nav{
   a.active:hover{
     background: #6eceff;
     transition: .5s;
+    color: #fff;
   }
   a.active{
     font-family: 'Fraunces', serif;
