@@ -41,14 +41,24 @@ nav{
   }
   nav ul li a{
     color: white;
-    font-size: 17px;
+    font-size: 14px;
     padding: 7px 13px;
-    border-radius: 3px;
-    text-transform: uppercase;
+  
   }
-  a.active,a:hover{
-    background: #1b9bff;
+  
+  a.active:hover{
+    background: #6eceff;
     transition: .5s;
+  }
+  a.active{
+    font-family: 'Fraunces', serif;
+    font-size: 14px;
+    font-weight: 700;
+    background: #fff;
+    color:  hsl(212, 27%, 19%);
+    transition: .5s;  
+    border-radius: 40px;
+    padding: 13px 15px;
   }
   .checkbtn{
     font-size: 30px;
