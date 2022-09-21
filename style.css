@@ -19,7 +19,7 @@
 
 /*Header start********************/
 nav{
-    background: #0082e6;
+    background: #3dbeff;
     height: 80px;
     width: 100%;
   }
@@ -43,6 +43,7 @@ nav{
     color: white;
     font-size: 14px;
     padding: 7px 13px;
+    font-weight: 500;
   
   }
   
