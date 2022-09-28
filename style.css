@@ -180,8 +180,22 @@ nav{
   font-weight: 600;
   color: hsl(213, 10%, 61%);
   margin: 0 auto;
-  padding-top: 35px;
+  padding-top: 30px;
+  padding-bottom: 35px;
   line-height: 27px;
+}
+
+.section2 .section2-text a{
+  font-family: 'Fraunces', serif;
+  font-size: 16px;
+  font-weight: 900;
+  color: hsl(212, 27%, 19%);
+  
+  line-height: 27px;
+  border-bottom: #2c3e50 6px solid;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-bottom: -50px;
 }
 
 .section2 .section2-img{
