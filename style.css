@@ -190,12 +190,9 @@ nav{
   font-size: 16px;
   font-weight: 900;
   color: hsl(212, 27%, 19%);
-  
-  line-height: 27px;
-  border-bottom: #2c3e50 6px solid;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  padding-bottom: -50px;
+ 
+  border-bottom: #fcf1bd 6px solid;
+  border-radius: 5px;
 }
 
 .section2 .section2-img{
