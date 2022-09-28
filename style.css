@@ -138,3 +138,8 @@ nav{
   font-family: 'Fraunces', serif;
   padding-top: 170px;
 }
+
+.hero .hero-text img{
+  margin: 90px auto 0 auto;
+  display: block;
+}
