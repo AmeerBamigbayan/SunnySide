@@ -123,3 +123,11 @@ nav{
   width: 100%;
   background-size: cover;
 }
+
+.hero h1{
+  font-size: 60px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  margin: 0 auto;
+}
