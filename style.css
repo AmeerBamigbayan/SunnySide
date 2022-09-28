@@ -143,3 +143,18 @@ nav{
   margin: 90px auto 0 auto;
   display: block;
 }
+
+/**Hero start********************/
+
+
+
+/**Section2 start********************/
+
+.section2{
+  background: #fff;
+  height: 75vh;
+  width: 100%;
+  padding: 0;
+  display: flex;
+}
+
