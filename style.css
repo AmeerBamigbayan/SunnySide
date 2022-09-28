@@ -151,18 +151,49 @@ nav{
 /**Section2 start********************/
 
 .section2{
-  background: #fff;
-  height: 70vh;
-  width: 100%;
-  padding: 0;
+  background: #fffbf8;
+  height: 90vh;
   display: flex;
+  padding: 0;
 }
 
 .section2 .section2-text{
   width: 50%;
-  padding: 0 100px;
+  padding-top: 60px;
+  padding-left: 150px;
+  padding-right: 100px;
   margin: 0 auto;
- 
 }
 
+.section2 .section2-text h1{
+  font-size: 36px;
+  font-weight: 900;
+  color: hsl(212, 27%, 19%);
+  font-family: 'Fraunces', serif;
+  margin: 0 auto;
+  padding-top: 100px;
+  line-height: 45px;
+}
+
+.section2 .section2-text p{
+  font-size: 16.5px;
+  font-weight: 600;
+  color: hsl(213, 10%, 61%);
+  margin: 0 auto;
+  padding-top: 35px;
+  line-height: 27px;
+}
+
+.section2 .section2-img{
+  width: 50%;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.section2 .section2-img img{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0 auto;
+}
 
