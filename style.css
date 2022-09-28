@@ -114,3 +114,12 @@ nav{
     }
   }
 /*Header end********************/
+
+/**Hero start********************/
+
+.hero{
+  background: url(img/desktop/image-header.jpg);
+  height: 120vh;
+  width: 100%;
+  background-size: cover;
+}
