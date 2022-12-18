@@ -274,3 +274,19 @@ nav{
 
 
 /**Section3 end********************/
+
+/**Section4 start********************/
+
+.section4{
+  background: #fffbf8;
+  height: 90vh;
+  display: flex;
+  padding: 0;
+}
+
+.section4 .section4-a{
+  background: url(img/desktop/image-photography.jpg);
+  
+}
+
+/**Section4 end********************/
