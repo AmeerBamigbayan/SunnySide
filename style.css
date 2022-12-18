@@ -286,15 +286,38 @@ nav{
 }
 
 .section4 .section4-a{
-  background: url(img/desktop/image-photography.jpg);
+  background: url(img/desktop/image-graphic-design.jpg);
+  background-size: cover;
   width: 50%;
   padding: 0;
   margin: 0 auto;
   
 }
 
+.section4 .section4-a h1{
+  font-size: 25px;
+  font-weight: 900;
+  color: #21564c;
+  font-family: 'Fraunces', serif;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 340px;
+  line-height: 45px;
+}
+
+.section4 .section4-a p{
+  font-size: 14.5px;
+  font-weight: 600;
+  color: #45746a;
+  margin: 0 auto;
+  padding-top: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+
 .section4 .section4-b{
-  background: url(img/desktop/image-graphic-design.jpg);
+  background: url(img/desktop/image-photography.jpg);
+  background-size: cover;
   width: 50%;
   padding: 0;
   margin: 0 auto;
