@@ -324,4 +324,26 @@ nav{
   
 }
 
+.section4 .section4-b h1{
+  font-size: 25px;
+  font-weight: 900;
+  color: #1a506b;
+  font-family: 'Fraunces', serif;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 340px;
+  line-height: 45px;
+}
+
+.section4 .section4-b p{
+  font-size: 14.5px;
+  font-weight: 600;
+  color: #19678d;
+  margin: 0 auto;
+  padding-top: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+
+
 /**Section4 end********************/
