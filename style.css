@@ -355,6 +355,7 @@ nav{
   height: 100vh;
   display: flex;
   padding: 0;
+  display: block;
 }
 
 .testimonials .testimonials-header{
@@ -370,5 +371,9 @@ nav{
   font-family: 'Fraunces', serif;
 }
 
-
+.testimonials .testimonials-container{
+  display: flex;
+  align-items: stretch;
+  padding: 100px;
+}
 /**Testimonials start********************/
