@@ -376,4 +376,16 @@ nav{
   align-items: stretch;
   padding: 100px;
 }
+
+.testimonials .testimonials-container .testimonials-card{
+  margin: 10px;
+  text-align: center;
+  flex: 1;
+}
+
+.testimonials .testimonials-container .testimonials-card .testimonials-img img{
+   border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
 /**Testimonials start********************/
