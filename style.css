@@ -347,3 +347,12 @@ nav{
 
 
 /**Section4 end********************/
+
+/**Testimonials start********************/
+
+.testimonials{
+  background: #fffbf8;
+  height: 100vh;
+  display: flex;
+  padding: 0;
+}
