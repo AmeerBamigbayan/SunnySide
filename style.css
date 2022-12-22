@@ -356,3 +356,18 @@ nav{
   display: flex;
   padding: 0;
 }
+
+.testimonials .testimonials-header{
+  width: 50%;
+  padding-top: 140px;
+  text-align: center;
+  margin: 0 auto;
+  text-transform: capitalize;
+  font-size: 13px;
+  font-weight: 900;
+  color: #a8a8a9;
+  letter-spacing: 4px;
+  font-family: 'Fraunces', serif;
+}
+
+/**Testimonials start********************/
