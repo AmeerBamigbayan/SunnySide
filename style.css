@@ -374,7 +374,7 @@ nav{
 .testimonials .testimonials-container{
   display: flex;
   align-items: stretch;
-  padding: 100px;
+  padding: 50px 100px 100px 100px;
 }
 
 .testimonials .testimonials-container .testimonials-card{
@@ -383,9 +383,13 @@ nav{
   flex: 1;
 }
 
+.testimonials .testimonials-container .testimonials-card .testimonials-img{
+   padding-bottom: 40px;
+}
 .testimonials .testimonials-container .testimonials-card .testimonials-img img{
    border-radius: 50%;
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
+    
 }
 /**Testimonials start********************/
